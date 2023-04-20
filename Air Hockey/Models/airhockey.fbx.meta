@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 4228f0b9239d98245b8f9181e44f4701
+labels:
+- Hockey
+- Paddle
+- Prop
+- Puck
+- Sport
+- Table
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: airhockey_paddle
+    100004: airhockey_puck
+    100006: airhockey_table
+    100008: bounds_col
+    100010: goal_a_col
+    100012: goal_b_col
+    100014: paddle
+    100016: paddle_col
+    100018: puck
+    100020: puck_col
+    100022: table
+    100024: table_col
+    100026: surface_col
+    100028: mallet
+    100030: mallet_col
+    100032: slot_a_col
+    100034: slot_b_col
+    100036: boundsCollider
+    100038: edgesCollider
+    100040: goalACollider
+    100042: goalBCollider
+    100044: malletCollider
+    100046: puckCollider
+    100048: slotA
+    100050: slotB
+    100052: surface
+    100054: railsCollider
+    400000: //RootNode
+    400002: airhockey_paddle
+    400004: airhockey_puck
+    400006: airhockey_table
+    400008: bounds_col
+    400010: goal_a_col
+    400012: goal_b_col
+    400014: paddle
+    400016: paddle_col
+    400018: puck
+    400020: puck_col
+    400022: table
+    400024: table_col
+    400026: surface_col
+    400028: mallet
+    400030: mallet_col
+    400032: slot_a_col
+    400034: slot_b_col
+    400036: boundsCollider
+    400038: edgesCollider
+    400040: goalACollider
+    400042: goalBCollider
+    400044: malletCollider
+    400046: puckCollider
+    400048: slotA
+    400050: slotB
+    400052: surface
+    400054: railsCollider
+    2300000: airhockey_paddle
+    2300002: airhockey_puck
+    2300004: airhockey_table
+    2300006: bounds_col
+    2300008: goal_a_col
+    2300010: goal_b_col
+    2300012: paddle
+    2300014: paddle_col
+    2300016: puck
+    2300018: puck_col
+    2300020: table
+    2300022: table_col
+    2300024: surface_col
+    2300026: mallet
+    2300028: mallet_col
+    2300030: slot_a_col
+    2300032: slot_b_col
+    2300034: boundsCollider
+    2300036: edgesCollider
+    2300038: goalACollider
+    2300040: goalBCollider
+    2300042: malletCollider
+    2300044: puckCollider
+    2300046: slotA
+    2300048: slotB
+    2300050: surface
+    2300052: railsCollider
+    3300000: airhockey_paddle
+    3300002: airhockey_puck
+    3300004: airhockey_table
+    3300006: bounds_col
+    3300008: goal_a_col
+    3300010: goal_b_col
+    3300012: paddle
+    3300014: paddle_col
+    3300016: puck
+    3300018: puck_col
+    3300020: table
+    3300022: table_col
+    3300024: surface_col
+    3300026: mallet
+    3300028: mallet_col
+    3300030: slot_a_col
+    3300032: slot_b_col
+    3300034: boundsCollider
+    3300036: edgesCollider
+    3300038: goalACollider
+    3300040: goalBCollider
+    3300042: malletCollider
+    3300044: puckCollider
+    3300046: slotA
+    3300048: slotB
+    3300050: surface
+    3300052: railsCollider
+    4300000: airhockey_puck
+    4300002: airhockey_paddle
+    4300004: airhockey_table
+    4300006: paddle
+    4300008: puck
+    4300010: table
+    4300012: puck_col
+    4300014: paddle_col
+    4300016: bounds_col
+    4300018: table_col
+    4300020: goal_a_col
+    4300022: goal_b_col
+    4300024: surface_col
+    4300026: slot_a_col
+    4300028: slot_b_col
+    4300030: mallet
+    4300032: mallet_col
+    4300034: malletCollider
+    4300036: puckCollider
+    4300038: slotA
+    4300040: surface
+    4300042: goalACollider
+    4300044: goalBCollider
+    4300046: slotB
+    4300048: boundsCollider
+    4300050: edgesCollider
+    4300052: railsCollider
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
